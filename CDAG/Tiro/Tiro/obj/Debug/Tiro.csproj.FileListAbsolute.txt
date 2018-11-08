@@ -1,0 +1,10 @@
+C:\Users\lfmata\Documents\Visual Studio 2017\CDAG\Tiro\Tiro\bin\Debug\Tiro.exe.config
+C:\Users\lfmata\Documents\Visual Studio 2017\CDAG\Tiro\Tiro\bin\Debug\Tiro.exe
+C:\Users\lfmata\Documents\Visual Studio 2017\CDAG\Tiro\Tiro\bin\Debug\Tiro.pdb
+C:\Users\lfmata\Documents\Visual Studio 2017\CDAG\Tiro\Tiro\obj\Debug\Tiro.csprojAssemblyReference.cache
+C:\Users\lfmata\Documents\Visual Studio 2017\CDAG\Tiro\Tiro\obj\Debug\Tiro.Form1.resources
+C:\Users\lfmata\Documents\Visual Studio 2017\CDAG\Tiro\Tiro\obj\Debug\Tiro.Properties.Resources.resources
+C:\Users\lfmata\Documents\Visual Studio 2017\CDAG\Tiro\Tiro\obj\Debug\Tiro.csproj.GenerateResource.cache
+C:\Users\lfmata\Documents\Visual Studio 2017\CDAG\Tiro\Tiro\obj\Debug\Tiro.csproj.CoreCompileInputs.cache
+C:\Users\lfmata\Documents\Visual Studio 2017\CDAG\Tiro\Tiro\obj\Debug\Tiro.exe
+C:\Users\lfmata\Documents\Visual Studio 2017\CDAG\Tiro\Tiro\obj\Debug\Tiro.pdb
